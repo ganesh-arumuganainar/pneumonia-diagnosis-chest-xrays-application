@@ -1,0 +1,2 @@
+# pneumonia-diagnosis-chest-xrays-application
+Designed and trained an ensemble of two different CNN models using python ML packages Keras and Tensorflow to predict if an uploaded image is a chest x-ray image. If so, the model checks for pneumonia condition in the chest x-ray image. The models were trained on Google Cloud Platform using micro web framework Flask and container orchestration tool Docker.
